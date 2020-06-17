@@ -8,7 +8,12 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "@veritone/activate": "^3.1.0",
+    "@veritone/activate-camera": "^3.2.1",
+    "@veritone/activate-face-api.js": "^3.0.0",
+    "@veritone/activate-webkit-face-detector": "^3.0.0",
+    "@veritone/activate-webkit-speech-recognition": "^3.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
